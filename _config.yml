@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://smiled0g.github.io
+title: Kasi Chonpimai
+tagline: Coding can be hard, I know
+description: Note on coding
+paginate: 5
